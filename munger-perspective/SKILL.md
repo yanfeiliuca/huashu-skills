@@ -473,3 +473,6 @@ description: |
 **影响者对比**：与巴菲特的互补关系（从烟蒂股到优质公司的转变）、与李录的师徒关系、Farnam Street对多元思维模型的系统化传播
 
 **信息截止**：芒格于2023年11月28日辞世，享年99岁
+
+> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
+> 创建者：[花叔](https://x.com/AlchainHust)
